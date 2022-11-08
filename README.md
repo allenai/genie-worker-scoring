@@ -112,9 +112,9 @@ GENIE was originally presented in the paper [*GENIE: A Leaderboard for
 Human-in-the-Loop Evaluation of Text Generation*][genie-paper]. Please cite it
 as follows:
 
-    @misc{khashabi-etal-2021-genie,
+    @inproceedings{khashabi-etal-2021-genie,
       title = {
-        GENIE: A Leaderboard for Human-in-the-Loop Evaluation of Text Generation
+        Toward Reproducible and Standardized Human Evaluation for Text Generation
       },
       author = {
         Khashabi, Daniel
@@ -126,8 +126,8 @@ as follows:
         and Smith, Noah A.
         and Weld, Daniel S.
       },
-      publisher = {arXiv},
-      year = {2021},
+      booktitle = {EMNLP},
+      year = {2022},
       url = {https://arxiv.org/abs/2101.06561},
       doi = {10.48550/ARXIV.2101.06561},
       keywords = {
